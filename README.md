@@ -8,7 +8,7 @@ Awesome Series @ Write Kit
 # Awesome Markdown Editors & (Pre)viewers
 
 A collection of awesome markdown editors and (pre)viewers
-for Linux, Apple OS X, Microsoft Windows, the World Wide Web (WWW) and more.
+for Linux, Apple OS X, Microsoft Windows, the World Wide Web and more.
 
 
 ---
@@ -28,36 +28,81 @@ _Zen Writing - leaving you alone with your thoughts and your words_
 
 ### Markdown Online Editors
 
-- [Minimalist Online Markdown Editor](http://markdown.pioul.fr/)  (github: [`pioul/Minimalist-Online-Markdown-Editor`](https://github.com/pioul/Minimalist-Online-Markdown-Editor))
-- [StackEdit](https://stackedit.io)  (github: [`benweet/stackedit`](https://github.com/benweet/stackedit))
-- [Markdown Note](http://writekit.github.io/markdown.note/note.html)  (github: [`writekit/markdown.note`](https://github.com/writekit/markdown.note)) - another simple single HTML page, server-less Markdown editor in JavaScript
+**Minimalist Online Markdown Editor**
+(web: [`markdown.pioul.fr`](http://markdown.pioul.fr),
+ github: [`pioul/Minimalist-Online-Markdown-Editor`](https://github.com/pioul/Minimalist-Online-Markdown-Editor))
+
+**StackEdit**
+(web: [`stackedit.io`](https://stackedit.io),
+ github: [`benweet/stackedit`](https://github.com/benweet/stackedit))
+
+**Markdown Note**
+(web: [`writekit.github.io/markdown.note/note.html`](http://writekit.github.io/markdown.note/note.html),
+ github: [`writekit/markdown.note`](https://github.com/writekit/markdown.note)) -
+another simple single HTML page, server-less Markdown editor in JavaScript
+
 
 
 ### Markdown Desktop Editors
 
-Universal
+#### Universal
 
-#### Atom
+**Atom**
 
-- [Atom + Markdown Preview]()  - to be done
+Markdown Preview - to be done
+
+
+**Visual Studio Code**
+
+to be done
+
+
+#### Linux
+
+**Retext**
+(github wiki: [`retext-project/retext`](https://github.com/retext-project/retext/wiki),
+ github: [`retext-project/retext`](https://github.com/retext-project/retext)) -
+ReText is a simple but powerful editor for markdown and reStructuredText markup languages.
+ReText is written in Python language and works on Linux and other POSIX-compatible platforms.
+
+**uText**
+(web: [`atareao.es/tag/utext`](http://www.atareao.es/tag/utext),
+ ubuntu apps: [`utext`](https://apps.ubuntu.com/cat/applications/utext)) -
+uText is a very simple editor for Markdown. uText supports live text preview and syntax highlighting.
+Supported export formats: HTML, ODT, PDF.
+
+**Remarkable**
+(web: [`remarkableapp.github.io`](http://remarkableapp.github.io)) -
+markdown editor for Linux and Windows
+
+
+**UberWriter**
+(web: [`uberwriter.wolfvollprecht.de`](http://uberwriter.wolfvollprecht.de),
+ ubuntu apps: [`uberwriter`](https://apps.ubuntu.com/cat/applications/uberwriter)) -
+UberWriter, beautiful distraction free writing.
+With UberWriter you get only one thing: An empty textbox, that is to fill with your ideas.
+There are no settings, you don't have to choose a font, it is only for writing.
+You can use markdown for all your markup needs. PDF, RTF and HTML are generated via pandoc.
+
+**MarkMyWords**
+(github: [`voldyman/MarkMyWords`](http://github.com/voldyman/MarkMyWords)) -
+a minimal markdown editor
 
 
 
-Linux
+#### Microsoft Windows
 
-- [Retext](https://github.com/retext-project/retext/wiki) [:octocat:](https://github.com/retext-project/retext) - ReText is a simple but powerful editor for Markdown and reStructuredText markup languages. ReText is written in Python language and works on Linux and other POSIX-compatible platforms.
-- [uText](http://www.atareao.es/tag/utext/) - uText is a very simple editor for Markdown. uText supports live text preview and syntax highlighting. Supported export formats: HTML, ODT, PDF. [uText in the Ubuntu apps directory](https://apps.ubuntu.com/cat/applications/utext/).
-- [Remarkable](http://remarkableapp.github.io/) - *'The best markdown editor for Linux and Windows'*
-- [UberWriter](http://uberwriter.wolfvollprecht.de/) - [UberWriter in the Ubuntu apps directory](https://apps.ubuntu.com/cat/applications/uberwriter/) UberWriter, beautiful distraction free writing. With UberWriter you get only one thing: An empty textbox, that is to fill with your ideas. There are no settings, you don't have to choose a font, it is only for writing.You can use markdown for all your markup needs. PDF, RTF and HTML are generated via pandoc.
-- [MarkMyWords :octocat:](http://github.com/voldyman/MarkMyWords) - A minimal markdown editor
+**WriteMonkey**
+(web: [`writemonkey.com`](http://writemonkey.com)) -
+full screen distraction free creative writing; no whistles and bells, just empty screen, you and your words;
+WriteMonkey is light, fast, and free
 
-Windows
 
-- [WriteMonkey](http://writemonkey.com) - full screen distraction free creative writing; no whistles and bells, just empty screen, you and your words; WriteMonkey is light, fast, and free
+#### Apple Mac OS X
 
-Mac OS
-
-- [MacDown](http://macdown.uranusjr.com/) - open source Markdown editor inspired by Mou, with live preview of extended Markdown syntaxes
+**MacDown**
+(web: [`macdown.uranusjr.com`](http://macdown.uranusjr.com)) -
+open source Markdown editor inspired by Mou, with live preview of extended markdown syntaxes
 
 
 
