@@ -44,25 +44,26 @@ another simple single HTML page, server-less Markdown editor in JavaScript
 (web: [`dillinger.io`](http://dillinger.io/),
  github: [`joemccann/dillinger`](https://github.com/joemccann/dillinger))
 
+
 ## Markdown Desktop Editors
 
 ### Universal
 
-**Atom**
+**Atom** (FREE, open source)
 
 Markdown Preview - to be done
 
-**Typora**
+**Visual Studio Code** (FREE)
+
+to be done
+
+**Typora** ($$, Free in beta)
 
 Typora is a highly unique and powerful markdown editor. The most surprising and difficult to explain feature, is the **in place** live preview. In a nutshell as you type markdown it previews the text behind your cursor eliminating the need for a separate preview space.
 
 In addition to including some very nice looking css based themes it also leverages the power of `pandoc` by using an intermediary format behind the scene allowing you to import and export to many popular document formats including.
 
 The current version, 0.9.23-1, still has some minor bugs and the OS X version is still in beta but, wow, does it look great!
-
-**Visual Studio Code**
-
-to be done
 
 
 ### Linux
@@ -100,7 +101,7 @@ a minimal markdown editor
 More / Articles
 
 - [12 Best Markdown Editors for Linux](http://bettertechtips.com/linux/markdown-editor-linux), Better Tech Tips, July 2017
-  -- incl. Remarkable, Mark My Words, ReText, Ghostwriter, Abricotine, Typora, Haroopad, Caret, GitBook Editor, LightMd Editor, EME (Elegant Markdown Editor), PileMd
+  -- incl. Remarkable, Mark My Words, ReText, Ghostwriter, Abricotine, Typora ($$, Free in beta), Haroopad ($$, Donationware), Caret ($25), GitBook Editor, LightMd Editor, EME (Elegant Markdown Editor), PileMd
 
 
 
@@ -113,7 +114,7 @@ WriteMonkey is light, fast, and free
 
 More / Articles
 
-- [The Best Markdown Editor for Windows](https://sitepoint.com/best-markdown-editors-windows), by Zack Wallace, SitePoint,  July 2017 -- incl. Texts, WriteMonkey, Haroopad, MarkPad, MarkdownPad 2, Typora, Caret
+- [The Best Markdown Editor for Windows](https://sitepoint.com/best-markdown-editors-windows) by Zack Wallace, SitePoint,  July 2017 -- incl. Texts ($19), WriteMonkey, Haroopad ($$, Donationware), MarkPad, MarkdownPad 2, Typora ($$, Free in beta), Caret ($25)
 
 
 
@@ -122,6 +123,19 @@ More / Articles
 **MacDown**
 (web: [`macdown.uranusjr.com`](http://macdown.uranusjr.com)) -
 open source Markdown editor inspired by Mou, with live preview of extended markdown syntaxes
+
+More / Articles
+
+- [The Best Markdown Editors for Mac](https://sitepoint.com/the-best-markdown-editors-for-mac) by Adrian Try, SitePoint, July 2017 -- incl. Ulysses ($44.99), Quiver ($9.99), LightPaper ($16.49), MWeb ($14.99), Texts ($19), Byword ($11.99), IA Writer ($9.99), Typora ($$, Free in beta), Caret ($25), Focused ($29.99), Bear (Free, Bear Pro subscription $1.49/month), Mou ($$, Free in beta),  MacDown (FREE, open source), Haroopad ($$, Donationware)
+
+
+## Misc
+
+### WordPress
+
+More / Articles
+
+- [How Writers & Bloggers Can Make the Most of Markdown in WordPress](https://sitepoint.com/writers-bloggers-can-make-markdown-wordpress) by Adrian Try, SitePoint, July 2017 -- Jetpack (free plugin), WP-Markdown (free), PrettyPress (free, pro version w/ shortcode previews for $10),  Markdown for WordPress and bbPress (free), Markdown QuickTags (free), Typewriter (free)
 
 
 
