@@ -25,7 +25,7 @@ Follow along the Manuscripts News ([@manuscriptsnews](https://twitter.com/manusc
 _Zen Writing - leaving you alone with your thoughts and your words_
 
 
-### Markdown Online Editors
+## Markdown Online Editors
 
 **Minimalist Online Markdown Editor**
 (web: [`markdown.pioul.fr`](http://markdown.pioul.fr),
@@ -44,9 +44,9 @@ another simple single HTML page, server-less Markdown editor in JavaScript
 (web: [`dillinger.io`](http://dillinger.io/),
  github: [`joemccann/dillinger`](https://github.com/joemccann/dillinger))
 
-### Markdown Desktop Editors
+## Markdown Desktop Editors
 
-#### Universal
+### Universal
 
 **Atom**
 
@@ -65,7 +65,7 @@ The current version, 0.9.23-1, still has some minor bugs and the OS X version is
 to be done
 
 
-#### Linux
+### Linux
 
 **Retext**
 (github wiki: [`retext-project/retext`](https://github.com/retext-project/retext/wiki),
@@ -104,15 +104,20 @@ More / Articles
 
 
 
-#### Microsoft Windows
+### Microsoft Windows
 
 **WriteMonkey**
 (web: [`writemonkey.com`](http://writemonkey.com)) -
 full screen distraction free creative writing; no whistles and bells, just empty screen, you and your words;
 WriteMonkey is light, fast, and free
 
+More / Articles
 
-#### Apple Mac OS X
+- [The Best Markdown Editor for Windows](https://sitepoint.com/best-markdown-editors-windows), by Zack Wallace, SitePoint,  July 2017 -- incl. Texts, WriteMonkey, Haroopad, MarkPad, MarkdownPad 2, Typora, Caret
+
+
+
+### Apple Mac OS X
 
 **MacDown**
 (web: [`macdown.uranusjr.com`](http://macdown.uranusjr.com)) -
