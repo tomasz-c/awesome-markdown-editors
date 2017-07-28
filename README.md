@@ -96,6 +96,14 @@ You can use markdown for all your markup needs. PDF, RTF and HTML are generated 
 (github: [`voldyman/MarkMyWords`](http://github.com/voldyman/MarkMyWords)) -
 a minimal markdown editor
 
+
+More / Articles
+
+- [12 Best Markdown Editors for Linux](http://bettertechtips.com/linux/markdown-editor-linux), Better Tech Tips, July 2017
+  -- incl. Remarkable, Mark My Words, ReText, Ghostwriter, Abricotine, Typora, Haroopad, Caret, GitBook Editor, LightMd Editor, EME (Elegant Markdown Editor), PileMd
+
+
+
 #### Microsoft Windows
 
 **WriteMonkey**
