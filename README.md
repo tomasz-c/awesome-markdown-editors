@@ -74,7 +74,7 @@ KeenWrite was developed to make using variables in documents simple. Variables m
 
 See the [screenshots](https://github.com/DaveJarvis/keenwrite#screenshots) and [demo video](https://www.youtube.com/watch?v=u_dFd6UhdV8) for additional details.
 
-**Typora** ($$, Free in beta)
+[**Typora**](https://typora.io/) ($$, Free in beta)
 
 Typora is a highly unique and powerful markdown editor. The most surprising and difficult to explain feature, is the **in place** live preview. In a nutshell as you type markdown it previews the text behind your cursor eliminating the need for a separate preview space.
 
@@ -89,6 +89,12 @@ Abricotine supports very good instant preview like Typora, but is open source - 
 [**MarkText**](https://github.com/marktext/marktext) (FREE, open source)
 
 MarkText is very similar to Abricotine, but it's development is much faster than Abricotine's (while isn't really stable yet).
+
+[**Deepdwn**](https://billiam.itch.io/deepdwn) ($11.99)
+
+Deepdwn is an offline-only, feature-rich markdown editor for Windows, Mac and Linux, focused on expressive rendering and document organization.
+
+Supports image drag and drop, charts and diagrams, sheet music and tabs, table auto-formatting, tags and categories, and more.
 
 [**Caret**](https://caret.io/) ($29 for continued use)
 
