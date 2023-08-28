@@ -10,13 +10,6 @@ Awesome Series @ Write Kit
 A collection of awesome markdown editors and (pre)viewers
 for Linux, Apple OS X, Microsoft Windows, the World Wide Web and more.
 
----
-
-[ANNOUNCEMENT] Looking for the latest news, tools, tips & tricks, and more
-about markdown and friends?
-Follow along the Manuscripts News ([@manuscriptsnews](https://twitter.com/manuscriptsnews)) channel on twitter for updates.
-
----
 
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
