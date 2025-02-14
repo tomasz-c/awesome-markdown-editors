@@ -52,9 +52,12 @@ Collaborative Markdown editor with GitHub sync, WYSIWYG rendering, hosting, AI a
 (web: [`hackmd.io`](http://hackmd.io/),
  github: [`HackMD`](https://github.com/hackmdio)) - Allows collaboration and more UI options. Link to Github is maintained.
 
+<!--
+ see https://github.com/mundimark/awesome-markdown-editors/issues/67
  **LetsMarkdown.com**
 (web: [`LetsMarkdown.com`](https://letsmarkdown.com/),
 github: [`Cveinnt/LetsMarkdown.com`](https://github.com/Cveinnt/LetsMarkdown.com)) - 👨‍💻👩‍💻 Fast, minimal web editor that makes markdown editing collaborative and accessible to everyone.
+-->
 
 **Typo**
 (web: [`Typo`](https://typo.robino.dev),
