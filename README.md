@@ -130,6 +130,12 @@ Obsidian.md is a powerful and versatile note-taking app that utilizes Markdown t
 
 [Get more information here.](https://publish.obsidian.md/hub/00+-+Start+here)
 
+[**Tangent**](https://www.tangentnotes.com/) (FREE, open source) [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)
+
+Open-source Markdown note-taking application for Mac, Windows, and Linux. Tangent stores notes as plain Markdown files locally, providing full control over data. It features linked notes with an interactive map and sliding panels to navigate between them, facilitating easy organization and exploration of ideas.  
+[Get more information here.](https://www.tangentnotes.com/Features/)  
+[The code resides on GitHub](https://github.com/suchnsuch/Tangent)
+
 [**Typora**](https://typora.io/) ($14.99)
 
 Typora is a highly unique and powerful markdown editor. The most surprising and difficult to explain feature, is the **in place** live preview. In a nutshell as you type markdown it previews the text behind your cursor eliminating the need for a separate preview space.
